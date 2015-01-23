@@ -1,1 +1,5 @@
-name, date, description
+Randy Parisi
+1/23/15
+
+Once the button is clicked an event is triggered. Everytime the event is triggered a new shape is going to be sent to the gpu
+buffer, then it is going to render it.
